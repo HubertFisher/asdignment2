@@ -1,3 +1,11 @@
-.navbar-toggler-icon {
-    color: #fff; 
+
+.bg-info{
+    color:#fff;
+    background-color: #fff;
+}
+.icon-hover:hover {
+    color: red;
+}
+.nav-link-hover:hover {
+    color: red;
 }
