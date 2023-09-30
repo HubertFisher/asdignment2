@@ -9,3 +9,28 @@
 .nav-link-hover:hover {
     color: red;
 }
+.navbar-toggler{
+    border: 1px white !important;
+}
+.liner{
+    margin-top: 0;
+    width: 15%;
+    background-color: red;
+    border: none;
+    height: 4px;
+}
+.bg-overall{
+    background-color: #161B1D;
+}
+.nav-link {
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+.bg-news{
+    background-color: #3e2525;
+}
+.top-news{
+    margin-right: 10px;
+}
