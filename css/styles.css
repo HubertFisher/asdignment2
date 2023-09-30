@@ -1,4 +1,6 @@
-
+body{
+    margin-top: 130px !important;
+}
 .bg-info{
     color:#fff;
     background-color: #fff;
@@ -29,8 +31,11 @@ ul, ol {
     list-style: none;
 }
 .bg-news{
-    background-color: #3e2525;
+    background-color: #950740;
 }
 .top-news{
     margin-right: 10px;
+}
+.new-border{
+    border: 1px solid #552237
 }
